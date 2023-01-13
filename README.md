@@ -7,17 +7,6 @@ I am [Hejazi](https://hejazi.tech/). A fullstack Web Developer based in Cairo, E
 - 🌠 I like to experiment with new technologies and build small projects.
 - ✌ 2023 Goal: Contribute more to Open Source projects.
 
-<p align="center">
-    <a href="https://github.com/Abdullah-Hejazi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Hejazi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah-Hejazi&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Hejazi&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hejazi&theme=great-gatsby&layout=compact)](https://github.com/Abdullah-Hejazi)
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
