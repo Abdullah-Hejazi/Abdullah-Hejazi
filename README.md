@@ -5,7 +5,7 @@ I am [Hejazi](https://hejazi.tech/). A fullstack Web Developer based in Cairo, E
 - ✍ I'm a full stack web developer with a passion for learning new technologies and building cool stuff.
 - 👯 I like to communicate with people and learn from them.
 - 🌠 I like to experiment with new technologies and build small projects.
-- ✌ 2023 Goal: Contribute more to Open Source projects.
+- ✌ 2024 Goal: Contribute more to Open Source projects, Reach higher salary and enhance my skills
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
