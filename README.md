@@ -79,7 +79,7 @@ I am [Hejazi](https://hejazi.tech/). A fullstack Web Developer based in Cairo, E
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<a href="https://twitter.com/HejaziTech" target="blank">
+<a href="https://twitter.com/TechHejazi" target="blank">
     <img src="https://img.shields.io/badge/twitter-4ad8ff?style=for-the-badge&logo=twitter&logoColor=black">
 </a>
 
